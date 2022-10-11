@@ -1,0 +1,9 @@
+c:\users\me\documents\visual studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\bin\Debug\Lesson02-A2-CSharp.exe.config
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\bin\Debug\Lesson02-A2-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\bin\Debug\Lesson02-A2-CSharp.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\obj\Debug\Lesson02-A2-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\obj\Debug\Lesson02_A2_CSharp.Form1.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\obj\Debug\Lesson02_A2_CSharp.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\obj\Debug\Lesson02-A2-CSharp.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\obj\Debug\Lesson02-A2-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A2-CSharp\Lesson02-A2-CSharp\obj\Debug\Lesson02-A2-CSharp.pdb
